@@ -30,7 +30,7 @@ function App() {
       </div>
       {/*  */}
       <div className="card">
-        <button onClick={() => WebApp.showAlert(`Hello World! Current count is ${count}`)}>
+        <button onClick={() => WebApp.showAlert(`Hello Darvas! Sergey is gay ${count} times`)}>
             Show Alert
         </button>
       </div>
